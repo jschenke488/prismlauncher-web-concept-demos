@@ -13,3 +13,7 @@ This site is made to be a demo for different concepts made by contributors on [F
 * Pqtato's Fork for [#13](https://github.com/PrismLauncher/prismlauncher.github.io/pull/13)
   * [Source](https://github.com/jschenke488/prismlauncher.github.io)
   * [Web](https://homelab.pqtato.pw) - may be offline
+
+---
+
+Source for this website can be found on [GitHub](https://github.com/jschenke488/prismlauncher-web-concept-demos)
